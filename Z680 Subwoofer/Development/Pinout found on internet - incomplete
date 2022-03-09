@@ -1,0 +1,25 @@
+I thought this could be of interest to the ones trying to fix problems with their Z-680, for instance, extending cables or repairing a defective unit.
+My Z-680 was down 2 times, re-imbursed once by the e-shop I bought it on, the second has been replaced by a Z-5500 from Logitech. Hopefully... In this case, they ask you to cut cables and send them the cables. Before doing so, I checked the cabling of the SUB-D used to connect the control pod to the subwoofer.
+I hate throwing things away, I prefer to repair them. So I solded a new Sub-D before fixing the power supply that was the cause of the problem. Here is what I have:
+- the control pod cable contains 2 sets of wires: first set contains the signals, shielded. The second set seems to contain power wires.
+- Sub-D are normalized, they are made of 15 pins in 3 rows. Check the digits used on the plug, that what I use here
+- The SUb-D is female
+- 1: black and brown wire (signal)
+- 2: grey and black wire (signal)
+- 3: Grey wire (signal)
+- 4: purple wire (signal)
+- 5: brown (signal)
+- 6: shield
+- 7: yellow
+- 8: nothing
+- 9: purple and black (signal)
+- 10: red
+- 11: red and black
+- 12: green
+- 13: nothing
+- 14: white
+- 15: blue
+
+Hope this is understandable, forgive my approximate English, I am not good for technical terms.
+
+Patrick
