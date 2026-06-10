@@ -176,7 +176,7 @@ L Device:R_Small R2
 U 1 1 61554F4B
 P 7625 4700
 F 0 "R2" H 7684 4746 50  0000 L CNN
-F 1 "100" H 7684 4655 50  0000 L CNN
+F 1 "1k" H 7684 4655 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" H 7625 4700 50  0001 C CNN
 F 3 "~" H 7625 4700 50  0001 C CNN
 	1    7625 4700
@@ -345,6 +345,4 @@ F 3 "~" H 6875 5175 50  0001 C CNN
 	1    6875 5175
 	0    -1   -1   0   
 $EndComp
-Text Notes 6250 5350 0    39   ~ 0
-solder a jumper connecting signal and digital grounds.
 $EndSCHEMATC

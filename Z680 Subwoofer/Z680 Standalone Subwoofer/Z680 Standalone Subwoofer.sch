@@ -4,10 +4,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Z680 standalone subwoofer"
-Date "2022-03-08"
-Rev "0"
-Comp "Brian Markley EIT RSE"
+Title ""
+Date ""
+Rev ""
+Comp ""
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -176,7 +176,7 @@ L Device:R_Small R2
 U 1 1 61554F4B
 P 7625 4700
 F 0 "R2" H 7684 4746 50  0000 L CNN
-F 1 "100" H 7684 4655 50  0000 L CNN
+F 1 "1k" H 7684 4655 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" H 7625 4700 50  0001 C CNN
 F 3 "~" H 7625 4700 50  0001 C CNN
 	1    7625 4700
