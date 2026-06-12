@@ -1,11 +1,16 @@
 # Z680-Standalone-Subwoofer-Breakout-Board
+![materials](/Z680%20Subwoofer/Photos/IMG_20220308_2259223.jpg)
+
 This is a pcb and circuit for repurposing the subwoofer in the Z680 Logitech speakers system with an aftermarket receiver. Good for keeping these speakers in service after the control pod fails.
 
 The PCB has been tested and works great, but the design is provided with no garauntees or warranty. You are liable for your own actions.
 
 Notes on the LED and enclosure: 
+
 1: The enclosure took a little trial and error so use your best judgement. The original plan for the LED was to lave it illuminate the phono jack but the LED I selected was not bright enough to work like that. I had to bring it to the exterior of the case. Inconsistencies in the photos are just the trial and error process. 
+
 2: I needed to use 2 washers on the potentiometer to get the Dsub connector to be at the correct depth.
+
 3: You may want to use double sided tape to secure the final product to the back of the subwoofer. 
 
 Licensing: Open Hardware licensed under the Creative Commons BY-SA 4.0 License
