@@ -1,0 +1,4 @@
+Rev 1 of Z680 Standalone Breakout Board, by Brian Markley PENG RSE
+-1: R1 is depopulated, and moved to R4 position. //This changes the logarithmic curve of the volume control gain to allow for more low end control. Adjust the value of R4 to change the curve as needed. This will depend on the reciever you are using and it's preamp gain. 10K works well for my Harmon Kardon AVR130 reciever.
+-2: silkcreen of R3 is fixed.
+
